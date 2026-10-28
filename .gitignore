@@ -9,14 +9,7 @@ dist-ssr
 !.vscode/extensions.json
 .idea
 
-# react-lab 연습용 파일: GitHub에 올리지 않음 (기록은 archive 브랜치에 있음)
+# react-lab 연습장: GitHub에 올리지 않음 (기록은 archive 브랜치에 있음)
 # 새 프로젝트 폴더는 따로 적지 않아도 자동으로 올라감
 /.claude/
-/src/
-/public/
-/index.html
-/package.json
-/package-lock.json
-/eslint.config.js
-/vite.config.js
-/README.md
+/playground/
